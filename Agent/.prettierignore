@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+build
+
+# Coverage
+coverage
+.nyc_output
+
+# Test results
+playwright-report
+test-results
+
+# Configuration
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Misc
+*.min.js
+*.min.css
